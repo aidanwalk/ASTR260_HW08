@@ -1,1 +1,4 @@
 # ASTR260_HW08
+Problem 1: run AidanWalk_HW08_1.py be executing python AidanWalk_HW08_1.py. This will calculate the buckingham potential and print where the maximum value occurs in Angstroms and eV. This will also save a plot of the Buckinham potential titled 'AidanWalk_HW08_1_plot.png'(can also be viewed in the files on GitHub), that plots the r[Angstroms] against phi[eV], as well as highlights the maximum of this function on the plot. 
+
+Problem 2: run AidanWalk_HW08_2.py by executing python AidanWalk_HW08_2.py. This will save a contour plot titled 'AidanWalk_HW08_2_contourPlot.png' in the local directory. This plot can also be found in the files here on GitHub. The program will then attempt to solve for the global maximum of this function using gradient descent. This will be unsuccesful as there are still errors and bugs in the code. 
